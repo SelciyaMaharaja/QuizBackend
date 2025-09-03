@@ -1,0 +1,11 @@
+com\example\quizonline\repository\RoleRepositoryTest.class
+com\example\quizonline\controller\AuthControllerTest.class
+com\example\quizonline\repository\UserRepositoryTest.class
+com\example\quizonline\controller\RoleControllerTest.class
+com\example\quizonline\service\UserServiceTest.class
+com\example\quizonline\controller\QuestionControllerTest.class
+com\example\quizonline\service\QuestionServiceTest.class
+com\example\quizonline\controller\UserControllerTest.class
+com\example\quizonline\service\RoleServiceTest.class
+com\example\quizonline\repository\QuestionRepositoryTest.class
+com\example\quizonline\QuizonlineApplicationTests.class
